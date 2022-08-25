@@ -6,7 +6,8 @@
  * Basic Hello World Program
  */
 
-
+#include <stdio.h>
+#include <st
 int main(int argc, char **argv) {
     printf("Hello, I'm Adrien Palomo!\n");
     printf("Major is Computer Science!\n");
